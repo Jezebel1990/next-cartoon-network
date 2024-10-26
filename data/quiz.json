@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "GKfrCbCN5f",
+      "title": "What is the name of Dexter's older sister who often disrupts his experiments?",
+      "answers": ["Dee Dee", "Blossom", "Bubbles", "Buttercup"],
+      "correct_answer": "Dee Dee"
+    },
+    {
+      "id": "cQC0Y2Dmhu",
+      "title": "What is the name of Johnny Bravo's mother?",
+      "answers": ["Bunny Bravo", "Mama Bravo", "Marge Bravo", "Betty Bravo"],
+      "correct_answer": "Bunny Bravo"
+    },
+    {
+      "id": "DFfAzImRk6",
+      "title": "What is the name of the town where the Powerpuff Girls protect the citizens?",
+      "answers": ["Townsville", "Springfield", "Jump City", "Gotham"],
+      "correct_answer": "Townsville"
+    },
+    {
+      "id": "RY9qUoigEA",
+      "title": "In which Cartoon Network show does a young boy with a magical watch fight aliens?",
+      "answers": ["Ben 10", "Generator Rex", "Teen Titans", "Adventure Time"],
+      "correct_answer": "Ben 10"
+    },
+    {
+      "id": "qsLWiq531a",
+      "title": "Who is the main antagonist that the Kids Next Door face in Codename: Kids Next Door?",
+      "answers": ["Father", "Grandfather", "Stickybeard", "Mr. Boss"],
+      "correct_answer": "Father"
+    },
+    {
+      "id": "WbxoPIWfyk",
+      "title": "What is the name of the villainous monkey in The Powerpuff Girls?",
+      "answers": ["Mojo Jojo", "Mandark", "Him", "Fuzzy Lumpkins"],
+      "correct_answer": "Mojo Jojo"
+    },
+    {
+      "id": "MUfeMhv3n8",
+      "title": "What type of creature is Jake from Adventure Time?",
+      "answers": ["Dog", "Cat", "Bear", "Fox"],
+      "correct_answer": "Dog"
+    },
+    {
+      "id": "c2Ocp9ZvN2",
+      "title": "In which Cartoon Network show does a boy named Chowder work as an apprentice chef?",
+      "answers": ["Chowder", "Regular Show", "Clarence", "The Amazing World of Gumball"],
+      "correct_answer": "Chowder"
+    },
+    {
+      "id": "ypcGVPrhsg",
+      "title": "What is the name of the blue cat protagonist in The Amazing World of Gumball?",
+      "answers": ["Gumball", "Darwin", "Anais", "Richard"],
+      "correct_answer": "Gumball"
+    },
+    {
+      "id": "gC3jrDwEYk",
+      "title": "Which character from Ed, Edd n Eddy is known for his love of buttered toast?",
+      "answers": ["Ed", "Edd", "Eddy", "Rolf"],
+      "correct_answer": "Ed"
+    },
+    {
+      "id": "csOEYs6zXn",
+      "title": "Where do the bears from We Bare Bears live?",
+      "answers": ["San Francisco", "New York", "Chicago", "Los Angeles"],
+      "correct_answer": "San Francisco"
+    },
+    {
+      "id": "cyqZYE8DIK",
+      "title": "Which character in Teen Titans has the ability to transform into animals?",
+      "answers": ["Beast Boy", "Robin", "Cyborg", "Raven"],
+      "correct_answer": "Beast Boy"
+    },
+    {
+      "id": "CfQnf3lH56",
+      "title": "Who is the self-proclaimed 'King of the Hill' in the show Camp Lazlo?",
+      "answers": ["Raj", "Edward", "Lazlo", "Clam"],
+      "correct_answer": "Lazlo"
+    },
+    {
+      "id": "e3dDjEEWl0",
+      "title": "What is the name of Samurai Jack's primary antagonist?",
+      "answers": ["Aku", "Mojo Jojo", "Mandark", "Vlad Plasmius"],
+      "correct_answer": "Aku"
+    },
+    {
+      "id": "wKuUTrvMrF",
+      "title": "What is the name of the smart boy in Dexter's Laboratory?",
+      "answers": ["Dexter", "Mandark", "Jimmy", "Billy"],
+      "correct_answer": "Dexter"
+    },
+    {
+      "id": "SlYDds3o7F",
+      "title": "Which character from Courage the Cowardly Dog constantly tries to scare Courage?",
+      "answers": ["Eustace", "Muriel", "Dr. Le Quack", "Katz"],
+      "correct_answer": "Eustace"
+    }
+  ]
+}

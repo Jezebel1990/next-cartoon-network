@@ -1,0 +1,277 @@
+{
+  "data": [
+    {
+      "character_id": 1,
+      "quote": "Man, I'm pretty!"
+    },
+    {
+      "character_id": 1,
+      "quote": "Enough about you, let's talk about me!"
+    },
+    {
+      "character_id": 1,
+      "quote": "I don’t need to date, I just need a mirror."
+    },
+    {
+      "character_id": 1,
+      "quote": "Hey, baby! Are you wearing space pants? 'Cause your legs are out of this world!"
+    },
+    {
+      "character_id": 1,
+      "quote": "You know, when you really think about it, beauty is only skin deep. But I'm pretty all the way to the bone!"
+    },
+  {
+    "character_id": 2,
+    "quote": "Dee Dee, get out of my laboratory!"
+  },
+  {
+    "character_id": 2,
+    "quote": "Science is the greatest thing in the universe!"
+  },
+ 
+  {
+    "character_id": 2,
+    "quote": "This is science, Dee Dee, you wouldn’t understand!"
+  },
+  {
+    "character_id": 2,
+    "quote": "I am not a child, I am a scientist!"
+  },
+  {
+    "character_id": 2,
+    "quote": "Only those with superior minds are worthy of my time!"
+  },
+  {
+    "character_id": 2,
+    "quote": "Dee Dee, you are just a disruption to science!"
+  },
+  {
+    "character_id": 2,
+    "quote": "Ah, science... so pure, so perfect."
+  },
+  {
+    "character_id": 2,
+    "quote": "You have failed to understand the mind of a genius!"
+  },
+  {
+    "character_id": 3,
+    "quote": "The things I do for love!"
+  },
+  {
+    "character_id": 3,
+    "quote": "Oh, why me?!"
+  },
+  {
+    "character_id": 3,
+    "quote": "I just know something bad is going to happen."
+  },
+  {
+    "character_id": 3,
+    "quote": "This is just too scary!"
+  },
+  {
+    "character_id": 3,
+    "quote": "I have to save Muriel!"
+  },
+  {
+    "character_id": 3,
+    "quote": "Eustace, be nice!"
+  },
+  {
+    "character_id": 3,
+    "quote": "I’m not brave, I’m scared all the time!"
+  },
+  {
+    "character_id": 3,
+    "quote": "It's a spooky nightmare!"
+  },
+  {
+    "character_id": 3,
+    "quote": "I may be scared, but I’ll protect my family!"
+  },
+  {
+    "character_id": 4,
+    "quote": "We’re not just girls—we’re superheroes!"
+  },
+  {
+    "character_id": 4,
+    "quote": "Brains and bravery make the perfect combo!"
+  },
+  {
+    "character_id": 4,
+    "quote": "We’ve got to use our powers for good!"
+  },
+  {
+    "character_id": 4,
+    "quote": "Being a leader means making tough choices."
+  },
+  {
+    "character_id": 4,
+    "quote": "I believe we can make a difference, one fight at a time."
+  },
+  {
+    "character_id": 4,
+    "quote": "With teamwork, we’re unstoppable!"
+  },
+  {
+    "character_id": 4,
+    "quote": "I’ll protect this city with everything I’ve got."
+  },
+  {
+    "character_id": 4,
+    "quote": "When things get tough, we fight even harder!"
+  },
+  {
+    "character_id": 4,
+    "quote": "Never underestimate the power of kindness."
+  },
+  {
+    "character_id": 4,
+    "quote": "We’re here to save the day, no matter the odds!"
+  },
+  {
+    "character_id": 5,
+    "quote": "I'm not as tough as Blossom, but I can be brave too!"
+  },
+  {
+    "character_id": 5,
+    "quote": "Sometimes, kindness is the strongest superpower of all!"
+  },
+  {
+    "character_id": 5,
+    "quote": "Just because I'm cute doesn't mean I can't fight!"
+  },
+  {
+    "character_id": 7,
+    "quote": "Butter toast! It solves everything!"
+  },
+  {
+    "character_id": 7,
+    "quote": "Gravy is my favorite color!"
+  },
+  {
+    "character_id": 7,
+    "quote": "I am a woodpecker! Except with dirt!"
+  },
+  {
+    "character_id": 7,
+    "quote": "I'm a monster with a heart of bacon!"
+  },
+  {
+    "character_id": 7,
+    "quote": "Hey, can I eat that shoe?"
+  },
+  {
+    "character_id": 7,
+    "quote": "My brain went on vacation, but my stomach stayed!"
+  },
+  {
+    "character_id": 7,
+    "quote": "I once had a dream where everything was gravy!"
+  },
+  {
+    "character_id": 8,
+    "quote": "Organization is the backbone of success!"
+  },
+  {
+    "character_id": 8,
+    "quote": "This calls for some scientific investigation!"
+  },
+  {
+    "character_id": 8,
+    "quote": "Knowledge is power, gentlemen!"
+  },
+  {
+    "character_id": 8,
+    "quote": "Remember, cleanliness is next to Edliness."
+  },
+  {
+    "character_id": 8,
+    "quote": "I’d prefer to avoid any confrontation, if possible."
+  },
+  {
+    "character_id": 8,
+    "quote": "Science never rests, and neither do I!"
+  },
+  {
+    "character_id": 9,
+    "quote": "I've got a plan that will make us rich! Just follow my lead!"
+  },
+  {
+    "character_id": 9,
+    "quote": "You guys are missing out on the good life—it's all about the hustle!"
+  },
+  {
+    "character_id": 9,
+    "quote": "Why work hard when you can work smart? Let’s find the easy way!"
+  },
+  {
+    "character_id": 9,
+    "quote": "I’m not just a kid; I’m a businessman in the making!"
+  },
+  {
+    "character_id": 9,
+    "quote": "If you want something, you gotta go out and get it—no one’s giving it away!"
+  },
+  {
+    "character_id": 10,
+    "quote": "With great power comes great responsibility. It's up to me to make the right choices."
+  },
+  {
+    "character_id": 10,
+    "quote": "I may be a kid, but I can take on anything the universe throws at me!"
+  },
+  {
+    "character_id": 10,
+    "quote": "Every alien has its strengths; I just have to find the right one for the job!"
+  },
+  {
+    "character_id": 10,
+    "quote": "Being a hero isn't just about the powers; it's about helping people when they need it."
+  },
+  {
+    "character_id": 11,
+    "quote": "Adventure time! Let's go explore the world and make some awesome memories!"
+  },
+  {
+    "character_id": 11,
+    "quote": "Sometimes, you just have to believe in yourself and trust that you can do anything."
+  },
+  {
+    "character_id": 11,
+    "quote": "No matter how tough things get, I won't give up on my friends or my adventures!"
+  },
+  {
+    "character_id": 11,
+    "quote": "It's not about how many battles I win, but the friends I make along the way."
+  },
+  {
+    "character_id": 12,
+    "quote": "Life is short, so let's stretch it out and enjoy every moment!"
+  },
+  {
+    "character_id": 12,
+    "quote": "If you don't have fun, you're doing it wrong!"
+  },
+  {
+    "character_id": 12,
+    "quote": "I can shapeshift into anything! But I prefer being myself, you know?"
+  },
+  {
+    "character_id": 16,
+    "quote": "Life is just a game, and I'm the dealer of doom!"
+  },
+  {
+    "character_id": 16,
+    "quote": "Why worry about the afterlife when we can have fun in the here and now?"
+  },
+  {
+    "character_id": 16,
+    "quote": "Death is not the end; it's just the beginning of a new adventure!"
+  },
+  {
+    "character_id": 16,
+    "quote": "Being grim is my job, but I can't help but find the humor in it!"
+  }
+  ]
+}

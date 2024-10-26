@@ -1,0 +1,336 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "johnny bravo",
+      "slug": "johnny-bravo",
+      "skills": [
+        "Super strength",
+        "Martial arts",
+        "Charm",
+        "Dancing skills",
+        "Catchphrases",
+        "Stylish hair maintenance"
+      ],
+      "description": "The buff, blonde, and bold Johnny Bravo is known for his over-the-top confidence and hilarious romantic misadventures.",
+      "age": "20",
+      "avatar": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/861bf1bb-22c8-4e2f-89a9-8bacf7e2479d/d16qa2p-b66abac2-854d-4543-ab4a-4b98db065c4d.jpg/v1/fit/w_600,h_600,q_70,strp/johnny_bravo_cor___vetorizado_by_rafaelhora_d16qa2p-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvODYxYmYxYmItMjJjOC00ZTJmLTg5YTktOGJhY2Y3ZTI0NzlkXC9kMTZxYTJwLWI2NmFiYWMyLTg1NGQtNDU0My1hYjRhLTRiOThkYjA2NWM0ZC5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.nXwf49yOlHk-pPoopM2-VGymusYJciGTtPlb4EcU9cg",
+      "images": [
+        "https://i.pinimg.com/originals/ca/7d/03/ca7d034c93bb788e487bc1fe664bb3fa.jpg",
+        "https://i0.wp.com/static1.srcdn.com/wordpress/wp-content/uploads/2019/03/Johnny-Bravo.jpg?resize=800%2C417&ssl=1"
+      ],
+      "occupations": [
+        "Ladies' man",
+        "Occasional hero"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "dexter",
+      "slug": "dexter",
+      "skills": [
+        "Genius intellect",
+        "Scientific inventions",
+        "Robot creation",
+        "Multilingual"
+      ],
+      "description": "Dexter is a young boy genius with a hidden laboratory full of inventions. His smarts often clash with his pesky sister, Dee Dee.",
+      "age": "10",
+      "avatar": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bcb37a39-0266-4bdb-86ec-a9e93660220f/deslwxv-0f0e6ccb-b0d7-4532-8576-c9d9b1c38049.jpg/v1/fill/w_1280,h_1138,q_75,strp/dexter_s_laboratory_by_artdexo2000_deslwxv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzOCIsInBhdGgiOiJcL2ZcL2JjYjM3YTM5LTAyNjYtNGJkYi04NmVjLWE5ZTkzNjYwMjIwZlwvZGVzbHd4di0wZjBlNmNjYi1iMGQ3LTQ1MzItODU3Ni1jOWQ5YjFjMzgwNDkuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Z_ftDoZ-Bt2P7uKtXeDRR1xd2-DbXYYetsQ2_Rj6hys",
+      "images": [
+        "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6aad8756-7569-48be-b4ac-b26dfefd951e/d6j9a0g-4645c2db-c6a2-4920-b8f0-6feb13d4ecd0.jpg/v1/fill/w_1024,h_576,q_75,strp/dexter_s_grand_theft_auto_by_lesz3_d6j9a0g-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNmFhZDg3NTYtNzU2OS00OGJlLWI0YWMtYjI2ZGZlZmQ5NTFlXC9kNmo5YTBnLTQ2NDVjMmRiLWM2YTItNDkyMC1iOGYwLTZmZWIxM2Q0ZWNkMC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.zU0-OuVI9QhLVvTg7hgfUP60WhwgwVbnz78xSsMe2qQ",
+        "https://static.wikia.nocookie.net/dexterslab/images/8/84/Dexter%27s_Lab.png/revision/latest/scale-to-width-down/1024?cb=20150328230508"
+      ],
+      "occupations": [
+        "Inventor",
+        "Scientist"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "courage",
+      "slug": "courage",
+      "skills": [
+        "Bravery",
+        "Loyalty",
+        "Resourcefulness",
+        "Animal instincts"
+      ],
+      "description": "Courage is a timid but loyal dog who must face his fears to protect his owners from supernatural forces.",
+      "age": "7 (dog years)",
+      "avatar": "https://i.pinimg.com/originals/0c/28/89/0c288950b1e63be112d756d79326de54.jpg",
+      "images": [
+        "https://e1.pxfuel.com/desktop-wallpaper/643/34/desktop-wallpaper-courage-the-cowardly-dog-pc-courage-the-cowardly-dog.jpg",
+        "https://tm.ibxk.com.br/2023/11/02/02090558160010.jpg?ims=750x"
+      ],
+      "occupations": [
+        "Protector of the Bagge family"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "blossom",
+      "slug": "blossom",
+      "skills": [
+        "Super strength",
+        "Flight",
+        "Laser vision",
+        "Leadership"
+      ],
+      "description": "Blossom is the leader of the Powerpuff Girls, always ready to save the day with her intelligence and powers.",
+      "age": "5",
+      "avatar": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/598060c6-5936-4d18-a515-61e8bbe32ada/dfo2f0u-ae3a643a-5322-44f1-8615-23de455c2d2f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU5ODA2MGM2LTU5MzYtNGQxOC1hNTE1LTYxZThiYmUzMmFkYVwvZGZvMmYwdS1hZTNhNjQzYS01MzIyLTQ0ZjEtODYxNS0yM2RlNDU1YzJkMmYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M5ptkngYAn78jtJd2kv3XTPxoDGX33RdUy8TqXcwSyc",
+      "images": [
+        "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/Features-1.jpg",
+        "https://images6.alphacoders.com/128/1283473.jpg"
+      ],
+      "occupations": [
+        "Superhero"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "bubbles",
+      "slug": "bubbles",
+      "skills": [
+        "Super strength",
+        "Flight",
+        "Communication with animals",
+        "Cute factor"
+      ],
+      "description": "Bubbles is the sweetest of the Powerpuff Girls, known for her kindness, bubbly personality, and animal communication skills.",
+      "age": "5",
+      "avatar": "https://i.pinimg.com/564x/ac/f5/2b/acf52b4dfc78bbfa8c126e6818a39c59.jpg",
+      "images": [
+        "https://giffiles.alphacoders.com/214/214137.gif",
+        "https://m.media-amazon.com/images/S/pv-target-images/6af36c09f0dbe32eafabf04374c2f6a6bab59e55f1a593e8d1f3130b387ce816.jpg"
+      ],
+      "occupations": [
+        "Superhero"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "buttercup",
+      "slug": "buttercup",
+      "skills": [
+        "Super strength",
+        "Flight",
+        "Martial arts",
+        "Intimidation"
+      ],
+      "description": "Buttercup is the toughest of the Powerpuff Girls, with a rebellious personality and a knack for fighting.",
+      "age": "5",
+      "avatar": "https://avatarfiles.alphacoders.com/288/thumb-1920-288372.jpg",
+      "images": [
+        "https://images8.alphacoders.com/778/thumb-1920-778468.jpg",
+        "https://cdn.flickeringmyth.com/wp-content/uploads/2024/07/WB-Powerpuff-Girls-01-Cov-B-1.jpg"
+      ],
+      "occupations": [
+        "Superhero"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "ed",
+      "slug": "ed",
+      "skills": [
+        "Strength",
+        "Indestructibility",
+        "Eccentric intelligence"
+      ],
+      "description": "Ed is the simple, lovable goofball of the trio known as Ed, Edd, n Eddy, always hungry and full of strange ideas.",
+      "age": "14",
+      "avatar": "https://facts.net/wp-content/uploads/2023/09/24-facts-about-ed-ed-edd-n-eddy-1693530247.jpg",
+      "images": [
+        "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54f3e63d-9f99-48c7-9e6e-5291631713cd/ddgl5wv-58e13cb7-7bd3-4cb9-b629-d9b0b5d40348.png/v1/fill/w_640,h_480,q_80,strp/vlcsnap_2015_12_13_13h14m19s607_1__by_austinsptd1996_ddgl5wv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDgwIiwicGF0aCI6IlwvZlwvNTRmM2U2M2QtOWY5OS00OGM3LTllNmUtNTI5MTYzMTcxM2NkXC9kZGdsNXd2LTU4ZTEzY2I3LTdiZDMtNGNiOS1iNjI5LWQ5YjBiNWQ0MDM0OC5wbmciLCJ3aWR0aCI6Ijw9NjQwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.6Lzyt2TOgIk1sETLTx_Axhr8mz89RjXcuHt_50kzDAg",
+        "https://wallpapercave.com/wp/wp2237542.jpg"
+      ],
+      "occupations": [
+        "Jawbreaker collector"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "edd",
+      "slug": "edd",
+      "skills": [
+        "Intellect",
+        "Organization",
+        "Problem-solving"
+      ],
+      "description": "Edd, also known as Double D, is the brains of the Eds. His inventions often go awry, but his logical mind keeps the group together.",
+      "age": "14",
+      "avatar": "https://preview.redd.it/all-the-art-belongs-to-diegonoy-over-on-youtube-and-v0-l0bxkh56ho0d1.jpg?width=1242&format=pjpg&auto=webp&s=82c8fc26fae74eb7961ac805ddedb1d9a7a36893",
+      "images": [
+        "https://wallpapercave.com/wp/wp2237550.jpg",
+        "https://w7.pngwing.com/pngs/703/970/png-transparent-crying-cartoon-animation-edd-s-blue-computer-wallpaper-vertebrate.png"
+      ],
+      "occupations": [
+        "Inventor"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "eddy",
+      "slug": "eddy",
+      "skills": [
+        "Conning skills",
+        "Determination",
+        "Leadership"
+      ],
+      "description": "Eddy is the leader and schemer of the Eds, always coming up with wild plans to get jawbreakers.",
+      "age": "14",
+      "avatar": "https://facts.net/wp-content/uploads/2023/09/23-facts-about-eddy-ed-edd-n-eddy-1694242398.jpg",
+      "images": [
+        "https://imgix.ranker.com/list_img_v2/9656/2649656/original/ed-edd-n-eddy-fan-theories",
+        "https://www.pixelstalk.net/wp-content/uploads/2016/11/Ed-Edd-N-Eddy-Wallpapers-HD-Free-Download-620x389.jpg"
+      ],
+      "occupations": [
+        "Scammer"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "ben tennyson",
+      "slug": "ben-tennyson",
+      "skills": [
+        "Omnitrix control",
+        "Alien transformation",
+        "Combat skills"
+      ],
+      "description": "Ben Tennyson is a young hero who can transform into different alien species using the Omnitrix.",
+      "age": "10",
+      "avatar": "https://a0.anyrgb.com/pngimg/1116/1428/cartoon-network-studios-ben-10-ultimate-alien-ben-10-omniverse-ben-10-adventure-time-cartoon-network-cool-hairstyle-youtube-vision-care.png",
+      "images": [
+        "https://4kwallpapers.com/images/walls/thumbs_2t/18954.jpg",
+        "https://4kwallpapers.com/images/walls/thumbs_2t/18971.jpg"
+      ],
+      "occupations": [
+        "Hero"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "finn the human",
+      "slug": "finn-the-human",
+      "skills": [
+        "Swordsmanship",
+        "Bravery",
+        "Combat skills"
+      ],
+      "description": "Finn is a brave adventurer in the Land of Ooo, always ready for action with his best friend, Jake the Dog.",
+      "age": "12",
+      "avatar": "https://a0.anyrgb.com/pngimg/446/1022/poker-face-finn-the-human-adventure-time-cartoon-network-lady-gaga-emotion-toddler-cheek-boy-facial-expression.png",
+      "images": [
+        "https://lh3.googleusercontent.com/proxy/vvnAkMvFP8Nur-cHeEjePHBKmO6vYK4zmBTb01mWy79e-yr17VCD7QupOQdHRkmRw6mFvUjMNpBNY94MOQ04-gXPGHWkVWMr0emvaX1s0MzEag",
+        "https://wallpapercave.com/wp/wp7564364.jpg"
+      ],
+      "occupations": [
+        "Adventurer"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "jake the dog",
+      "slug": "jake-the-dog",
+      "skills": [
+        "Stretching",
+        "Shapeshifting",
+        "Loyalty"
+      ],
+      "description": "Jake is Finn’s loyal friend, with magical powers that allow him to stretch and change shape.",
+      "age": "28 (in dog years)",
+      "avatar": "https://steamuserimages-a.akamaihd.net/ugc/260472595007606300/1F67C0FA367C67FFE4D9AC6853FED4C17ED59F66/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+      "images": [
+        "https://www.belloflostsouls.net/wp-content/uploads/2024/10/JakeTheDogSandwich.jpg",
+        "https://motionbgs.com/i/c/960x540/media/2996/jake-the-dog.jpg"
+      ],
+      "occupations": [
+        "Adventurer",
+        "Musician"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "mordecai",
+      "slug": "mordecai",
+      "skills": [
+        "Video gaming",
+        "Skateboarding",
+        "Sarcasm"
+      ],
+      "description": "Mordecai is a laid-back blue jay who works at the park with his best friend Rigby.",
+      "age": "23",
+      "avatar": "https://i.pinimg.com/736x/a3/bb/89/a3bb8991d9b6758a81cd86a667772f4e.jpg",
+      "images": [
+        "https://images5.alphacoders.com/840/thumb-1920-840878.jpg",
+        "https://cdn.kayiprihtim.com/wp-content/uploads/2024/06/Yeni-Regular-Show-Dizisi.jpg"
+      ],
+      "occupations": [
+        "Park worker"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "rigby",
+      "slug": "rigby",
+      "skills": [
+        "Video gaming",
+        "Pranks",
+        "Endurance"
+      ],
+      "description": "Rigby is Mordecai’s best friend, a mischievous raccoon with a penchant for trouble.",
+      "age": "23",
+      "avatar": "https://i.pinimg.com/736x/53/8d/1e/538d1e7d0f4f28c551bad4bf31e9785c.jpg",
+      "images": [
+        "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/04/rigby-Cropped.jpg",
+        "https://lh3.googleusercontent.com/avP2TVKNOvNjt6H8rpyGYxMoOY7hYfiDCdhITpPvQpQ_wR7SJyZqtRoc2zNvyMvZK4f8L7p5jzIO=w1440-ns-nd-rj"
+      ],
+      "occupations": [
+        "Park worker"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "samurai jack",
+      "slug": "samurai-jack",
+      "skills": [
+        "Swordsmanship",
+        "Martial arts",
+        "Agility"
+      ],
+      "description": "Samurai Jack is a noble warrior on a quest to defeat the evil Aku and return to his time.",
+      "age": "30s",
+      "avatar": "https://static.wikia.nocookie.net/wwwdynapaul/images/7/7d/Samurai_Jack_%282019%29.png/revision/latest/scale-to-width-down/563?cb=20170605230504",
+      "images": [
+        "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/08/Featured-Samurai-Jack-Cropped.jpg",
+        "https://cinepop.com.br/wp-content/uploads/2021/11/samurai-jack-vs-aku_t6bj.jpg"
+      ],
+      "occupations": [
+        "Samurai",
+        "Time traveler"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "grim",
+      "slug": "grim",
+      "skills": [
+        "Necromancy",
+        "Scythe mastery",
+        "Supernatural knowledge"
+      ],
+      "description": "Grim is the sarcastic and reluctant Grim Reaper, who is stuck being friends with two mischievous kids, Billy and Mandy.",
+      "age": "Ageless",
+      "avatar": "https://static.vecteezy.com/system/resources/previews/026/497/426/non_2x/grim-reaper-cartoon-character-free-vector.jpg",
+      "images": [
+        "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/The-Grim-Adventures-of-Billy-and-Mandy-Cropped.jpg",
+        "https://lh3.googleusercontent.com/2w_ktk50g4KqwOOJsk-XffHf6L1M9NcISZVgRbvc-MPxuankFw12VAqNQCVoUEg_IIhykD_gprA=w1440-ns-nd-rj"
+      ],
+      "occupations": [
+        "Grim Reaper"
+      ]
+    }
+  ]
+}
