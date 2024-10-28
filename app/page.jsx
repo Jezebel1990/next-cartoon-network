@@ -38,7 +38,7 @@ export default function Page() {
       setData(charactersData)
     }
     fetchData()
-  }, [])
+  }, [pulse])
 
   return (
     <main>
