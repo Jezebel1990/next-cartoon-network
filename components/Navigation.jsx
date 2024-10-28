@@ -18,7 +18,7 @@ export const Navigation = () => {
         </Link>
         <Link
           href="/quiz"
-          className="flex items-center justify-center gap-1 px-5 font-semibold text-white transition-colors bg-cyan-500 rounded-md duration-600 hover:bg-cyan-500/75"
+          className="flex items-center justify-center gap-1 px-5 font-semibold text-white transition-colors bg-cyan-500 rounded-md duration-600 hover:bg-cyan-600"
         >
           <TbArrowBigRightFilled className="text-lg" />
           Take a Quiz

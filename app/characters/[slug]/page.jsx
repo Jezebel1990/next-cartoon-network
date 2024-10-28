@@ -25,7 +25,7 @@ export default async function Page({ params }) {
   return (
     <Container className="flex flex-col gap-5 py-5" as="main">
       <div className="flex flex-col gap-2">
-        <h1 className="text-2xl font-semibold capitalize">{character.name}</h1>
+        <h1 className="text-2xl font-semibold capitalize text-white">{character.name}</h1>
         <ul className="flex gap-1 text-sm">
           {character.occupations.map(item => {
             return (
@@ -39,7 +39,7 @@ export default async function Page({ params }) {
           })}
         </ul>
       </div>
-      <p className="text-sm leading-6">{character.description}</p>
+      <p className="text-sm leading-6 text-gray-300">{character.description}</p>
       <ul className="grid gap-2 sm:grid-cols-2">
         {character.images.map(image => {
           return (
@@ -60,12 +60,12 @@ export default async function Page({ params }) {
       </ul>
       {character.skills && (
         <>
-          <h2 className="text-xl font-bold">Power and Skills</h2>
+          <h2 className="text-xl font-bold text-white">Power and Skills</h2>
           <ul className="flex flex-wrap gap-1">
             {character.skills.map(item => {
               return (
                 <li
-                  className="flex justify-center flex-grow px-2 py-1 text-orange-950 rounded-full bg-orange-400"
+                  className="flex justify-center flex-grow px-2 py-1 text-gray-950 rounded-full bg-fuchsia-600"
                   key={item}
                 >
                   {item}
@@ -77,12 +77,12 @@ export default async function Page({ params }) {
       )}
       {character_quotes && (
         <>
-          <h2 className="text-xl font-bold">Famous Qoutes</h2>
+          <h2 className="text-xl font-bold text-white">Famous Qoutes</h2>
           <ul className="grid gap-5">
             {character_quotes.map((item, idx) => {
               return (
                 <li
-                  className="p-2 italic text-gray-600 border-l-4 border-cyan-400 rounded-md"
+                  className="p-2 italic text-gray-500 border-l-4 border-cyan-400 rounded-md"
                   key={item.idx}
                 >
                   {item.quote}
