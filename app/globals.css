@@ -26,3 +26,8 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed; /* Faz o gradiente seguir o scroll */
 }
+
+footer {
+  margin: 0; 
+  padding: 0;
+}

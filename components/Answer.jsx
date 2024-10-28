@@ -47,7 +47,7 @@ export const Answer = ({ answers, questionId }) => {
         ? { src: "/correct.png", width: 300, height: 300, message: "Congratulations! The day was saved thanks to you." } 
         : { src: "/wrong.png", width: 200, height: 200, message: "Oh no, try again!" };
     }
-    return { src: "/quiz.png", width: 600, height: 600, message: "Make your choice!" };
+    return { src: "/quiz.png", width: 400, height: 400, message: "Make your choice!" };
   };
 
   const { src, width, height, message } = getImageProps();
@@ -110,20 +110,23 @@ export const Answer = ({ answers, questionId }) => {
         initial={{ scale: 1 }}
         animate={{ scale: [1, 1.03, 1], opacity: [1, 0.6, 1] }}
         transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
-        className="flex flex-col items-center justify-center mt-10 text-center">
+        className="relative flex flex-col items-center justify-center mt-6 text-center">
       
         {message && (
           <motion.p
           initial={{ scale: 1 }}
           animate={{ scale: [1, 1.05, 1], opacity: [1, 0.8, 1] }}
           transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
-            className="mt-4 mb-6 text-lg font-normal text-gray-400 text-center whitespace-nowrap"
+            className="mt-4 mb-6 text-base md:text-lg font-normal text-gray-400 text-center whitespace-normal px-4"
           >
             {message}
           </motion.p>
         )}
-
-        <Image src={src} alt="" width={width} height={height} />
+        <div className="relative w-full h-96 md:h-auto">
+        <Image src={src} alt="" width={width} height={height}
+         className="object-cover w-full h-full"
+         />
+        </div>
       </motion.div>
     </>
   );
