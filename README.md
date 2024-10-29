@@ -1,5 +1,8 @@
 # Next - Cartoon Network
 
+
+![cartoon](https://github.com/user-attachments/assets/5e59240b-2216-42e8-b53d-455280a556fd)
+
 <div id="top"></div>
 
 <br />

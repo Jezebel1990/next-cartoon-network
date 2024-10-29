@@ -6,7 +6,8 @@ Renders a component that displays a list of answer options for a quiz question.
 @param {string} props.questionId - The ID of the quiz question.
 @returns {JSX.Element} The rendered component.
 */
-'use client'
+
+'use client';
 
 import { useEffect, useState } from 'react';
 import cn from 'classnames';
@@ -43,11 +44,11 @@ export const Answer = ({ answers, questionId }) => {
 
   const getImageProps = () => {
     if (data && selected) {
-      return data.correct === selected 
-        ? { src: "/correct.png", width: 300, height: 300, message: "Congratulations! The day was saved thanks to you." } 
+      return data.correct === selected
+        ? { src: "/correct.png", width: 300, height: 300, message: "Congratulations! The day was saved thanks to you." }
         : { src: "/wrong.png", width: 200, height: 200, message: "Oh no, try again!" };
     }
-    return { src: "/quiz.png", width: 400, height: 400, message: "Make your choice!" };
+    return { src: "/quiz.png", width: 500, height: 500, message: "Make your choice!" };
   };
 
   const { src, width, height, message } = getImageProps();
@@ -73,7 +74,7 @@ export const Answer = ({ answers, questionId }) => {
       <ul className="grid grid-cols-2 gap-2 md:grid-cols-4">
         {answers.map((item) => {
           const isLoading = selected === item && loading;
-          const isWrong = selected === item && data && data?.correct !== selected;
+          const isWrong = selected === item && data && data.correct !== selected;
           const isCorrect = data?.correct === item;
 
           return (
@@ -106,27 +107,31 @@ export const Answer = ({ answers, questionId }) => {
         </Link>
       )}
       <motion.div 
-      variants={sparkleVariants}
+        variants={sparkleVariants}
         initial={{ scale: 1 }}
         animate={{ scale: [1, 1.03, 1], opacity: [1, 0.6, 1] }}
         transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
-        className="relative flex flex-col items-center justify-center mt-6 text-center">
-      
+        className="relative flex flex-col items-center justify-center mt-6 text-center"
+      >
         {message && (
           <motion.p
-          initial={{ scale: 1 }}
-          animate={{ scale: [1, 1.05, 1], opacity: [1, 0.8, 1] }}
-          transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
+            initial={{ scale: 1 }}
+            animate={{ scale: [1, 1.05, 1], opacity: [1, 0.8, 1] }}
+            transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
             className="mt-4 mb-6 text-base md:text-lg font-normal text-gray-400 text-center whitespace-normal px-4"
           >
             {message}
           </motion.p>
         )}
-        <div className="relative w-full h-96 md:h-auto">
-        <Image src={src} alt="" width={width} height={height}
-         className="object-cover w-full h-full"
-         />
-        </div>
+         <div className="relative w-auto h-auto sm:h-96 md:w-auto md:h-auto">
+  <Image 
+    src={src} 
+    alt={message} 
+    width={width} 
+    height={height} 
+    className="object-cover w-auto h-auto sm:h-96 md:w-auto md:h-auto"
+  />
+</div>
       </motion.div>
     </>
   );
